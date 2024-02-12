@@ -354,6 +354,7 @@
     <date name="昭和天皇の大喪の礼" value="1989/2/24" />
     <date name="天皇(明仁)即位記念" value="1990/11/12" />
     <date name="皇太子徳仁親王の結婚" value="1993/6/9" />
+    <date name="天皇(德仁)即位記念" value="2019/5/1" />
   </country>
   <country name="Jewish Holidays">
     <date name="Purim" value="> passover(y)" offset="-30"/>
